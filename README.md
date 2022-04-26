@@ -9,3 +9,4 @@ Write a function nextInLine which takes an array (arr) and a number (item) as ar
 Add the number to the end of the array, then remove the first element of the array.
 
 nextInLine([], 5) should return a number.
+nextInLine([], 1) should return 1

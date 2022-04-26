@@ -17,3 +17,4 @@ nextInLine([2], 1) should return 2
 nextInLine([5,6,7,8,9], 1) should return 5
 
 After nextInLine(testArr, 10), testArr[4] should be 10
+function nextInLine(arr, item) 

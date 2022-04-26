@@ -7,3 +7,4 @@ New items can be added at the back of the queue and old items are taken off from
 Write a function nextInLine which takes an array (arr) and a number (item) as arguments.
 
 Add the number to the end of the array, then remove the first element of the array.
+nextInLine([], 5) should return a number.

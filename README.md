@@ -11,3 +11,4 @@ Add the number to the end of the array, then remove the first element of the arr
 nextInLine([], 5) should return a number.
 nextInLine([], 1) should return 1
 nextInLine([2], 1) should return 2
+nextInLine([5,6,7,8,9], 1) should return 5
